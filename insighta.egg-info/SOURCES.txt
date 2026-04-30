@@ -1,0 +1,17 @@
+pyproject.toml
+insighta/auth.py
+insighta/main.py
+insighta/profiles.py
+insighta.egg-info/PKG-INFO
+insighta.egg-info/SOURCES.txt
+insighta.egg-info/dependency_links.txt
+insighta.egg-info/entry_points.txt
+insighta.egg-info/requires.txt
+insighta.egg-info/top_level.txt
+insighta/services/callbackserver.py
+insighta/services/client.py
+insighta/services/exceptions.py
+insighta/services/get_tokens.py
+insighta/services/login.py
+insighta/services/storage.py
+insighta/services/utilities.py
